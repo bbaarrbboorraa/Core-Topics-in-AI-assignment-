@@ -1,2 +1,2 @@
 # Core-Topics-in-AI-assignment-
-Chatbot implementation for the assignment of Core Topics in AI
+Chatbot implementation for the assignment of Core Topics in AI. The chatbot is implemented using an open-source LLM ([GPT-2](https://huggingface.co/docs/transformers/main/model_doc/gpt2)), fine-tuned using the [QLoRA](https://arxiv.org/abs/2305.14314) method. The data used to fine-tune this chatbot was the open-source [transcripts of Donald Trump's speeches](https://github.com/alexmill/trump_transcripts). The chatbot was used solely for educational purposes.
